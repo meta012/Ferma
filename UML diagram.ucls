@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.3" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="animals.Pig" project="Farm" file="/Farm/src/animals/Pig.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="92" y="726"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="farmer.calculators.SickFarmerTaxes" project="Farm" 
+    file="/Farm/src/farmer/calculators/SickFarmerTaxes.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2499" y="516"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="animals.Mammal" project="Farm" file="/Farm/src/animals/Mammal.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="491" y="210"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="farmer.calculators.WorkingFarmerTaxes" project="Farm" 
+    file="/Farm/src/farmer/calculators/WorkingFarmerTaxes.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2482" y="916"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="5" language="java" name="app" project="Farm" file="/Farm/src/app" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="71" width="481" x="3472" y="51"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="6" language="java" name="animals.Calf" project="Farm" file="/Farm/src/animals/Calf.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="472" y="637"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="app.TimerThread" project="Farm" file="/Farm/src/app/TimerThread.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3703" y="238"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="8" language="java" name="farm.calculator" project="Farm" file="/Farm/src/farm/calculator" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="63" width="685" x="1096" y="338"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="9" language="java" name="farmer.TopFarmer" project="Farm" file="/Farm/src/farmer/TopFarmer.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2270" y="228"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="farmer.calculators.FarmerTaxCalculator" project="Farm" 
+    file="/Farm/src/farmer/calculators/FarmerTaxCalculator.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2069" y="731"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="utils.CowBinaryRecordReader" project="Farm" 
+    file="/Farm/src/utils/CowBinaryRecordReader.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3305" y="355"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="farm.Inventory" project="Farm" file="/Farm/src/farm/Inventory.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1446" y="235"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="exceptions.FarmException" project="Farm" 
+    file="/Farm/src/exceptions/FarmException.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4198" y="182"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="customer.VipCustomer" project="Farm" file="/Farm/src/customer/VipCustomer.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4587" y="979"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="products.Milk" project="Farm" file="/Farm/src/products/Milk.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="885" y="1088"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="16" language="java" name="farm" project="Farm" file="/Farm/src/farm" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="76" width="684" x="1096" y="48"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="17" language="java" name="app.TimerThreadRun" project="Farm" file="/Farm/src/app/TimerThreadRun.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3881" y="223"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="18" language="java" name="exceptions" project="Farm" file="/Farm/src/exceptions" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="60" width="319" x="4042" y="60"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <interface id="19" language="java" name="animals.Animal" project="Farm" file="/Farm/src/animals/Animal.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="906" y="465"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <package id="20" language="java" name="customer" project="Farm" file="/Farm/src/customer" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="57" width="333" x="4408" y="60"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="21" language="java" name="utils.CowBinaryRecordWriter" project="Farm" 
+    file="/Farm/src/utils/CowBinaryRecordWriter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3077" y="363"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="utils.AnimalFactory" project="Farm" file="/Farm/src/utils/AnimalFactory.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3070" y="209"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="23" language="java" name="animals.Sellable" project="Farm" file="/Farm/src/animals/Sellable.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="912" y="306"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="24" language="java" name="customer.Customer" project="Farm" file="/Farm/src/customer/Customer.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4590" y="595"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="25" language="java" name="farmer.calculators" project="Farm" file="/Farm/src/farmer/calculators" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="64" width="772" x="1849" y="339"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="26" language="java" name="farm.calculator.FarmTaxCalculator" project="Farm" 
+    file="/Farm/src/farm/calculator/FarmTaxCalculator.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1463" y="731"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="exceptions.AnimalAgeException" project="Farm" 
+    file="/Farm/src/exceptions/AnimalAgeException.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4199" y="436"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="28" language="java" name="MyMap" project="Farm" file="/Farm/src/MyMap" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="68" width="270" x="2675" y="53"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="29" language="java" name="farmer" project="Farm" file="/Farm/src/farmer" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="73" width="784" x="1836" y="49"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="30" language="java" name="app.Main" project="Farm" file="/Farm/src/app/Main.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3541" y="201"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="utils.FarmersSerialization" project="Farm" 
+    file="/Farm/src/utils/FarmersSerialization.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3293" y="204"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="32" language="java" name="utils" project="Farm" file="/Farm/src/utils" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="68" width="450" x="2975" y="53"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="33" language="java" name="farmer.calculators.VacationingFarmerTaxes" project="Farm" 
+    file="/Farm/src/farmer/calculators/VacationingFarmerTaxes.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2485" y="703"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="34" language="java" name="products" project="Farm" file="/Farm/src/products" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1023" y="1023"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="35" language="java" name="animals.Cow" project="Farm" file="/Farm/src/animals/Cow.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="886" y="730"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="customer.CustomersInfo" project="Farm" 
+    file="/Farm/src/customer/CustomersInfo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4584" y="250"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="37" language="java" name="animals" project="Farm" file="/Farm/src/animals" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="1083" x="-45" y="45"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <generalization id="38">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <generalization id="39">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <association id="40">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="41" name="animals">        
+        <position height="20" width="57" x="989" y="467"/>      
+      </attribute>      
+      <multiplicity id="42" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="43">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <generalization id="44">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="24"/>  
+  </generalization>  
+  <generalization id="45">    
+    <bendpoint x="825" y="543"/>    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <generalization id="46">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="13"/>  
+  </generalization>  
+  <generalization id="47">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <association id="48">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="49" name="farmers"/>      
+      <multiplicity id="50" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="51">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="52" name="cows"/>      
+      <multiplicity id="53" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="54">    
+    <end type="SOURCE" refId="36" navigable="false">      
+      <attribute id="55" name="cust"/>      
+      <multiplicity id="56" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="57">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="58" name="cow"/>      
+      <multiplicity id="59" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="60">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="19"/>  
+  </realization>  
+  <generalization id="61">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <generalization id="62">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="23"/>  
+  </generalization>  
+  <association id="63">    
+    <end type="SOURCE" refId="35" navigable="false">      
+      <attribute id="64" name="milk"/>      
+      <multiplicity id="65" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
