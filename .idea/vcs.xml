@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="C:\Users\ASUS N550JK\IdeaProjects\Ferma\src\MyMap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/MyMap" vcs="Git" />
   </component>
 </project>
