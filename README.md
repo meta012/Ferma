@@ -1,3 +1,3 @@
 # Ferma
 
-----> Prieš paleidžiant - gali reikėti "set'inti MyMap.MyMap"
+----> Prieš paleidžiant - gali reikėti "set package name to MyMap"
